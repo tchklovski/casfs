@@ -29,7 +29,7 @@ think!
 
 ## Citing CASFS
 
-If Caliban helps you in your research, pleae consider citing the repository:
+If CASFS helps you in your research, please consider citing the repository:
 
 ```
 @software{casfs2020github,
